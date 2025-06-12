@@ -12,7 +12,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 
 | Day | Problem | Topic | Language | Status | Solution |
 |-----|---------|-------|----------|--------|--------|
-| 1   |[Second Largest Element in Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735)  | Arrays | Java | ✅ Completed | [Link]() |
+| 1   |[Second Largest Element in Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day1_SecondLargestElementinArray.java) |
 
 > Progress: 🟩 Day 1 / 160
 
