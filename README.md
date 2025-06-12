@@ -10,9 +10,9 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 
 ## 🗓️ Progress Tracker
 
-| Day | Problem | Topic | Language | Status |
-|-----|---------|-------|----------|--------|
-| 1   | Second Largest Element in Array | Arrays | Java | ✅ Completed |
+| Day | Problem | Topic | Language | Status | Solution |
+|-----|---------|-------|----------|--------|--------|
+| 1   |[Second Largest Element in Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735)  | Arrays | Java | ✅ Completed | [Link]() |
 
 > Progress: 🟩 Day 1 / 160
 
