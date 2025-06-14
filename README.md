@@ -13,8 +13,10 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | Day | Problem | Topic | Language | Status | Solution |
 |-----|---------|-------|----------|--------|--------|
 | 1   |[Second Largest Element in Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/second-largest3735)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day1_SecondLargestElementinArray.java) |
+| 2   |[Move All Zeroes to End](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/move-all-zeroes-to-end-of-array0751)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_2_MoveAllZeroestoEnd.java) |
+| 3   |[Reverse an Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_3_ReverseanArray.java) |
 
-> Progress: 🟩 Day 1 / 160
+> Progress: 🟩 Day 3 / 160
 
 ---
 
