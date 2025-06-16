@@ -17,7 +17,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 3   |[Reverse an Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_3_ReverseanArray.java) |
 | 4   |[Rotate Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_4_RotateArray.java) |
 | 5   |[Next Permutation](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_5/Day_5_NextPermutation.java) |
-https://github.com/LipunRout/GFG-160/blob/main/Day_5/Day_5_NextPermutation.java
+
 > Progress: 🟩 Day 5 / 160
 
 ---
