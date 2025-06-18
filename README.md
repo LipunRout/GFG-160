@@ -17,9 +17,12 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 3   |[Reverse an Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/reverse-an-array)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_3_ReverseanArray.java) |
 | 4   |[Rotate Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/rotate-array-by-n-elements-1587115621)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_4_RotateArray.java) |
 | 5   |[Next Permutation](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_5/Day_5_NextPermutation.java) |
-| 5   |[Majority Element II](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_6_MajorityElement.java) |
+| 6   |[Majority Element II](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_6_MajorityElement.java) |
+| 7   |[StockBuyand Sell Multiple Transaction Allowed](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_7_StockBuyandSellMultipleTransactionAllowed.java) |
 
-> Progress: 🟩 Day 6 / 160
+
+
+> Progress: 🟩 Day 7 / 160
 
 ---
 
