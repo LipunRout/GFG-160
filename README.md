@@ -19,10 +19,11 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 5   |[Next Permutation](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/next-permutation5226)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_5/Day_5_NextPermutation.java) |
 | 6   |[Majority Element II](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/majority-vote)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_6_MajorityElement.java) |
 | 7   |[StockBuyand Sell Multiple Transaction Allowed](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/stock-buy-and-sell2615)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_7_StockBuyandSellMultipleTransactionAllowed.java) |
+| 8   |[Stock Buy and Sell Maxone Transaction Allowed](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/buy-stock-2)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_8_StockBuyandSellMaxoneTransactionAllowed.java) |
+Day_8_StockBuyandSellMaxoneTransactionAllowed.java
 
 
-
-> Progress: 🟩 Day 7 / 160
+> Progress: 🟩 Day 8 / 160
 
 ---
 
