@@ -27,6 +27,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 13   |[Smallest Positive Missing](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/arrays-gfg-160/problem/smallest-positive-missing-number-1587115621)  | Arrays | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_13_SmallestPositiveMissing.java) |
 | 14   |[Implement Atoi](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_14_ImplementAtoi.java) |
 | 15   |[Add Binary Strings](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/add-binary-strings3805)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_15_AddBinaryStrings.java) |
+| 16   |[Anagram](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/anagram-1587115620)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_16_Anagram.java) |
 
 
 
@@ -35,7 +36,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 
 
 
-> Progress: 🟩 Day 15 / 160
+> Progress: 🟩 Day 16 / 160
 
 ---
 
