@@ -28,7 +28,8 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 14   |[Implement Atoi](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/implement-atoi)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_14_ImplementAtoi.java) |
 | 15   |[Add Binary Strings](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/add-binary-strings3805)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_15_AddBinaryStrings.java) |
 | 16   |[Anagram](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/anagram-1587115620)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_16_Anagram.java) |
-| 16   |[Non Repeating Character](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/non-repeating-character-1587115620)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_17_NonRepeatingCharacter.java) |
+| 17   |[Non Repeating Character](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/non-repeating-character-1587115620)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_17_NonRepeatingCharacter.java) |
+| 18   |[Search Pattern (KMP-Algorithm)](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/search-pattern0205)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_18_SearchPatternKMP_Algorithm.java) |
 
 
 
@@ -37,7 +38,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 
 
 
-> Progress: 🟩 Day 16 / 160
+> Progress: 🟩 Day 18 / 160
 
 ---
 
