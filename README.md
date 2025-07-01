@@ -31,8 +31,11 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 17   |[Non Repeating Character](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/non-repeating-character-1587115620)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_17_NonRepeatingCharacter.java) |
 | 18   |[Search Pattern (KMP-Algorithm)](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/search-pattern0205)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_18_SearchPatternKMP_Algorithm.java) |
 | 19   |[Min Chars to Add for Palindrome](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/minimum-characters-to-be-added-at-front-to-make-string-palindrome)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_19_MinCharstoAddforPalindrome.java) |
+| 20   |[Strings Rotations of Each Other](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/check-if-strings-are-rotations-of-each-other-or-not-1587115620)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_20_StringsRotationsofEachOther.java) |
 
-> Progress: 🟩 Day 20 / 160
+
+
+> Progress: 🟩 Day 21 / 160
 
 ---
 
