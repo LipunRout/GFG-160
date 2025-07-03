@@ -33,12 +33,13 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 19   |[Min Chars to Add for Palindrome](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/minimum-characters-to-be-added-at-front-to-make-string-palindrome)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_19_MinCharstoAddforPalindrome.java) |
 | 20   |[Strings Rotations of Each Other](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/string-gfg-160/problem/check-if-strings-are-rotations-of-each-other-or-not-1587115620)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_20_StringsRotationsofEachOther.java) |
 | 21   |[Sort 0s,1s and 2s](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/sort-an-array-of-0s-1s-and-2s4231)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_21_Sort0s1sand2s.java) |
+| 22   |[Find H-Index](http://geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/find-h-index--165609)  | Strings | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_22_FindHIndex.java) |
 
 
 
 
 
-> Progress: 🟩 Day 22 / 160
+> Progress: 🟩 Day 23 / 160
 
 ---
 
