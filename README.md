@@ -37,7 +37,8 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 23   |[Count Inversions](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/inversion-of-array-1587115620)  | Sort | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_23_CountInversions.java) |
 | 24   |[Overlapping Intervals](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/overlapping-intervals--170633)  | Sort | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_24_OverlappingIntervals.java) |
 | 25   |[Insert Interval](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/insert-interval-1666733333)  | Sort | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/InsertInterval.java) |
-| 25   |[Non-overlapping Intervals](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/insert-interval-1666733333)  | Sort | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_26_NonoverlappingIntervals.java) |
+| 26   |[Non-overlapping Intervals](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/insert-interval-1666733333)  | Sort | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Day_26_NonoverlappingIntervals.java) |
+| 27   |[Merge Without ExtraSpace](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/insert-interval-1666733333)  | Sort | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/MergeWithoutExtraSpace.java) |
 
 
 
@@ -45,7 +46,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 
 
 
-> Progress: 🟩 Day 27 / 160
+> Progress: 🟩 Day 28 / 160
 
 ---
 
