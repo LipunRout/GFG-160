@@ -41,13 +41,16 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 27   |[Merge Without ExtraSpace](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/sorting-gfg-160/problem/insert-interval-1666733333)  | Sort | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/MergeWithoutExtraSpace.java) |
 | 28   |[Number of occurrence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/number-of-occurrence2259)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Numberofoccurrence.java) |
 | 29   |[Sorted and Rotated Minimum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/minimum-element-in-a-sorted-and-rotated-array3611)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SortedandRotatedMinimum.java) |
+| 30   |[Search in Rotated Sorted Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/minimum-element-in-a-sorted-and-rotated-array3611)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SearchinRotatedSortedArray.java) |
 
 
 
 
 
 
-> Progress: 🟩 Day 30 / 160
+
+
+> Progress: 🟩 Day 31 / 160
 
 ---
 
