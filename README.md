@@ -43,6 +43,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 29   |[Sorted and Rotated Minimum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/minimum-element-in-a-sorted-and-rotated-array3611)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SortedandRotatedMinimum.java) |
 | 30   |[Search in Rotated Sorted Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/minimum-element-in-a-sorted-and-rotated-array3611)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SearchinRotatedSortedArray.java) |
 | 30   |[Peak element](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/peak-element)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Peakelement.java) |
+| 32   |[K-th element of two Arrays](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/k-th-element-of-two-sorted-array1317)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/KthelementoftwoArrays.java) |
 
 
 
