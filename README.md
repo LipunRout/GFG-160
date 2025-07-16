@@ -42,8 +42,9 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 28   |[Number of occurrence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/number-of-occurrence2259)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Numberofoccurrence.java) |
 | 29   |[Sorted and Rotated Minimum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/minimum-element-in-a-sorted-and-rotated-array3611)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SortedandRotatedMinimum.java) |
 | 30   |[Search in Rotated Sorted Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/minimum-element-in-a-sorted-and-rotated-array3611)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SearchinRotatedSortedArray.java) |
-| 30   |[Peak element](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/peak-element)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Peakelement.java) |
+| 31   |[Peak element](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/peak-element)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Peakelement.java) |
 | 32   |[K-th element of two Arrays](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/k-th-element-of-two-sorted-array1317)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/KthelementoftwoArrays.java) |
+| 33   |[Allocate Minimum Pages](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/allocate-minimum-number-of-pages0937)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/AllocateMinimumPages.java) |
 
 
 
