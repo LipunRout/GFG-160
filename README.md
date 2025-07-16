@@ -45,6 +45,8 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 31   |[Peak element](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/peak-element)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Peakelement.java) |
 | 32   |[K-th element of two Arrays](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/k-th-element-of-two-sorted-array1317)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/KthelementoftwoArrays.java) |
 | 33   |[Allocate Minimum Pages](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/allocate-minimum-number-of-pages0937)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/AllocateMinimumPages.java) |
+| 33   |[Kth-Missing Positive Number in a Sorted Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/kth-missing-positive-number-in-a-sorted-array)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/KthMissingPositiveNumberinaSortedArray.java) |
+
 
 
 
