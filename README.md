@@ -47,7 +47,9 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 33   |[Allocate Minimum Pages](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/allocate-minimum-number-of-pages0937)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/AllocateMinimumPages.java) |
 | 34   |[Kth-Missing Positive Number in a Sorted Array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/searching-gfg-160/problem/kth-missing-positive-number-in-a-sorted-array)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/KthMissingPositiveNumberinaSortedArray.java) |
 | 35   |[Spirally traversing a matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/spirally-traversing-a-matrix-1587115621)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Spirallytraversingamatrix.java) |
+| 36   |[Rotateby 90 degree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/rotate-by-90-degree-1587115621)  | Searching | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Rotateby90degree.java) |
 
+Rotateby90degree.java
 
 
 
