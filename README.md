@@ -50,6 +50,10 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 36   |[Rotateby 90 degree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/rotate-by-90-degree-1587115621)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Rotateby90degree.java) |
 | 37   |[Searchina Row Columnsorted matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix17201720)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SearchinaRowColumnsortedmatrix.java) |
 | 38   |[Search in a row-wise sorted matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix17201720)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Searchinarowwisesortedmatrix.java) |
+| 39   |[Search in a sorted Matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix-1587115621)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SearchinasortedMatrix.java) |
+| 40   |[Set Matrix Zeros](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/set-matrix-zeroes)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SetMatrixZeros.java) |
+
+
 
 
 
