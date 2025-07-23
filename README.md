@@ -52,7 +52,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 38   |[Search in a row-wise sorted matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix17201720)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Searchinarowwisesortedmatrix.java) |
 | 39   |[Search in a sorted Matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix-1587115621)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SearchinasortedMatrix.java) |
 | 40   |[Set Matrix Zeros](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/set-matrix-zeroes)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SetMatrixZeros.java) |
-
+| 41   |[Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/key-pair5616)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/TwoSumPairwithGivenSum.java) |
 
 
 
