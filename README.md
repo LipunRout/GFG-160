@@ -53,7 +53,8 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 39   |[Search in a sorted Matrix](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix-1587115621)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SearchinasortedMatrix.java) |
 | 40   |[Set Matrix Zeros](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/set-matrix-zeroes)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SetMatrixZeros.java) |
 | 41   |[Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/key-pair5616)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/TwoSumPairwithGivenSum.java) |
-| 42   |[Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/key-pair5616)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Countpairswithgivensum.java) |
+| 42   |[Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-pairs-with-given-sum--150253)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Countpairswithgivensum.java) |
+| 43   |[Find All Triplets with ZeroSum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/find-all-triplets-with-zero-sum)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/FindAllTripletswithZeroSum.java) |
 
 
 
