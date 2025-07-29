@@ -55,7 +55,9 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 41   |[Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/key-pair5616)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/TwoSumPairwithGivenSum.java) |
 | 42   |[Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-pairs-with-given-sum--150253)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Countpairswithgivensum.java) |
 | 43   |[Find All Triplets with ZeroSum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/find-all-triplets-with-zero-sum)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/FindAllTripletswithZeroSum.java) |
-| 43   |[Intersection of Two arrays with Duplicate Elements](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/intersection-of-two-arrays-with-duplicate-elements)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/IntersectionofTwoarrayswithDuplicateElements.java) |
+| 44   |[Intersection of Two arrays with Duplicate Elements](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/intersection-of-two-arrays-with-duplicate-elements)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/IntersectionofTwoarrayswithDuplicateElements.java) |
+| 45   |[Union of Arrays with Duplicates](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/union-of-two-arrays3538)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/UnionofArrayswithDuplicates.java) |
+
 
 
 
