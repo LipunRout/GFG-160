@@ -57,6 +57,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 43   |[Find All Triplets with ZeroSum](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/find-all-triplets-with-zero-sum)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/FindAllTripletswithZeroSum.java) |
 | 44   |[Intersection of Two arrays with Duplicate Elements](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/intersection-of-two-arrays-with-duplicate-elements)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/IntersectionofTwoarrayswithDuplicateElements.java) |
 | 45   |[Union of Arrays with Duplicates](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/union-of-two-arrays3538)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/UnionofArrayswithDuplicates.java) |
+| 45   |[Longest Consecutive Subsequence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/longest-consecutive-subsequence2449)  | Matrix | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/LongestConsecutiveSubsequence.java) |
 
 
 
@@ -73,8 +74,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 
 
 
-
-> Progress: 🟩 Day 31 / 160
+> Progress: 🟩 Day 50 / 160
 
 ---
 
