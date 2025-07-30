@@ -59,6 +59,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 45   |[Union of Arrays with Duplicates](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/union-of-two-arrays3538)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/UnionofArrayswithDuplicates.java) |
 | 46   |[Longest Consecutive Subsequence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/longest-consecutive-subsequence2449)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/LongestConsecutiveSubsequence.java) |
 | 47   |[Print Anagrams Together](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/print-anagrams-together)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/PrintAnagramsTogether.java) |
+| 48   |[Subarrays with sum K](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/subarrays-with-sum-k)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SubarrayswithsumK.java) |
 
 
 
