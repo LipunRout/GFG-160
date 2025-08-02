@@ -60,7 +60,8 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 46   |[Longest Consecutive Subsequence](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/longest-consecutive-subsequence2449)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/LongestConsecutiveSubsequence.java) |
 | 47   |[Print Anagrams Together](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/print-anagrams-together)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/PrintAnagramsTogether.java) |
 | 48   |[Subarrays with sum K](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/subarrays-with-sum-k)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SubarrayswithsumK.java) |
-| 48   |[Count Subarrays with given XOR](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-subarray-with-given-xor)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/CountSubarrayswithgivenXOR.java) |
+| 49   |[Count Subarrays with given XOR](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-subarray-with-given-xor)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/CountSubarrayswithgivenXOR.java) |
+| 50   |[Count all triplets with given sum in sorted array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-all-triplets-with-given-sum-in-sorted-array)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Countalltripletswithgivensuminsortedarray.java) |
 
 
 
