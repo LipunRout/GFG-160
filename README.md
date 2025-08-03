@@ -63,6 +63,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 49   |[Count Subarrays with given XOR](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-subarray-with-given-xor)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/CountSubarrayswithgivenXOR.java) |
 | 50   |[Count all triplets with given sum in sorted array](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-all-triplets-with-given-sum-in-sorted-array)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/Countalltripletswithgivensuminsortedarray.java) |
 | 51   |[Count Pairs whose sum is less than target](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-pairs-whose-sum-is-less-than-target)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/CountPairswhosesumislessthantarget.java) |
+| 52   |[Sum Pair closest to target](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-pairs-whose-sum-is-less-than-target)  | Hashing | Java | ✅ Completed | [Link](https://github.com/LipunRout/GFG-160/blob/main/SumPairclosesttotarget.java) |
 
 
 
