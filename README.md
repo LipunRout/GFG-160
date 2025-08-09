@@ -69,7 +69,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 55  | [Indexes of Subarray Sum](http://geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-possible-triangles-1587115620) | [Link](https://github.com/LipunRout/GFG-160/blob/main/IndexesofSubarraySum.java) |
 | 56  | [Count distinct elements in every window](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-distinct-elements-in-every-window) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Countdistinctelementsineverywindow.java) |
 | 57  | [Longest substring with distinct characters](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/longest-distinct-characters-in-string5848) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Longestsubstringwithdistinctcharacters.java) |
-
+| 57  | [Trapping Rain Water](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/trapping-rain-water-1587115621) | [Link](https://github.com/LipunRout/GFG-160/blob/main/TrappingRainWater.java) |
 
 
 
