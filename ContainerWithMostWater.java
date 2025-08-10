@@ -1,0 +1,12 @@
+class Solution {
+    public int maxWater(int arr[]) {
+        int n=arr.length,i=0,j=n-1,ans=0;
+        while(i<j){
+            ans=Math.max(ans,(j-i)*(Math.min(arr[i],arr[j])));
+            if(arr[i]<arr[j]) i++;
+            else j--;
+        }
+        return ans;
+        
+    }
+}
