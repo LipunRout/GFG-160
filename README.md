@@ -72,7 +72,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 58  | [Trapping Rain Water](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/trapping-rain-water-1587115621) | [Link](https://github.com/LipunRout/GFG-160/blob/main/TrappingRainWater.java) |
 | 59  | [Container With Most Water](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/container-with-most-water0535) | [Link](https://github.com/LipunRout/GFG-160/blob/main/ContainerWithMostWater.java) |
 | 60  | [Equilibrium Point](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/equilibrium-point-1587115620) | [Link](https://github.com/LipunRout/GFG-160/blob/main/EquilibriumPoint.java) |
-
+| 61  | [Longest Subarray with Sum K](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/longest-sub-array-with-sum-k0809) | [Link](https://github.com/LipunRout/GFG-160/blob/main/LongestSubarraywithSumK.java) |
 
 
 
