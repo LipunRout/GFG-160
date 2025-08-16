@@ -75,8 +75,8 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 61  | [Longest Subarray with Sum K](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/longest-sub-array-with-sum-k0809) | [Link](https://github.com/LipunRout/GFG-160/blob/main/LongestSubarraywithSumK.java) |
 | 62  | [Largest subarray of 0's and 1's](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/largest-subarray-of-0s-and-1s) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Largestsubarrayof0sand1s.java) |
 | 63  | [Product array puzzle](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/prefix-sum-gfg-160/problem/largest-subarray-of-0s-and-1s) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Productarraypuzzle.java) |
-| 64  | [Reversea linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Reversealinkedlist.java) |
-
+| 64  | [Reverse a linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Reversealinkedlist.java) |
+| 65  | [Rotate a linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list) | [Link](https://github.com/LipunRout/GFG-160/blob/main/RotateaLinkedList.java) |
 
 
 
