@@ -78,6 +78,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 64  | [Reverse a linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Reversealinkedlist.java) |
 | 65  | [Rotate a linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list) | [Link](https://github.com/LipunRout/GFG-160/blob/main/RotateaLinkedList.java) |
 | 66  | [Merge two sorted linked lists](http://geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/merge-two-sorted-linked-lists) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Mergetwosortedlinkedlists.java) |
+| 67  | [Linked List Group Reverse](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list-in-groups-of-given-size) | [Link](https://github.com/LipunRout/GFG-160/blob/main/LinkedListGroupReverse.java) |
 
 
 
