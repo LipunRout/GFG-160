@@ -79,6 +79,10 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 65  | [Rotate a linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list) | [Link](https://github.com/LipunRout/GFG-160/blob/main/RotateaLinkedList.java) |
 | 66  | [Merge two sorted linked lists](http://geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/merge-two-sorted-linked-lists) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Mergetwosortedlinkedlists.java) |
 | 67  | [Linked List Group Reverse](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/reverse-a-linked-list-in-groups-of-given-size) | [Link](https://github.com/LipunRout/GFG-160/blob/main/LinkedListGroupReverse.java) |
+| 68  | [Add Number Linked Lists](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/add-two-numbers-represented-by-linked-lists) | [Link](https://github.com/LipunRout/GFG-160/blob/main/AddNumberLinkedLists.java) |
+| 69  | [Clone List with Next and Random](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/clone-a-linked-list-with-next-and-random-pointer) | [Link](https://github.com/LipunRout/GFG-160/blob/main/CloneListwithNextandRandom.java) |
+
+
 
 
 
