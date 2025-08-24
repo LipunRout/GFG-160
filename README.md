@@ -84,7 +84,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 70  | [Detect Loop in linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/detect-loop-in-linked-list) | [Link](https://github.com/LipunRout/GFG-160/blob/main/DetectLoopinlinkedlist.java) |
 | 71  | [Find the first node of loop in linked list](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/find-the-first-node-of-loop-in-linked-list--170645) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Findthefirstnodeofloopinlinkedlist.java) |
 | 72  | [Remove loop in Linked List](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/remove-loop-in-linked-list) | [Link](https://github.com/LipunRout/GFG-160/blob/main/RemoveloopinLinkedList.java) |
-
+| 73  | [LRU Cache](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/lru-cache) | [Link](https://github.com/LipunRout/GFG-160/blob/main/LRUCache.java) |
 
 
 
