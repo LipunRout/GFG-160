@@ -86,7 +86,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 72  | [Remove loop in Linked List](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/remove-loop-in-linked-list) | [Link](https://github.com/LipunRout/GFG-160/blob/main/RemoveloopinLinkedList.java) |
 | 73  | [LRU Cache](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/linked-list-gfg-160/problem/lru-cache) | [Link](https://github.com/LipunRout/GFG-160/blob/main/LRUCache.java) |
 | 74  | [Permutations of a String](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/permutations-of-a-given-string2041) | [Link](https://github.com/LipunRout/GFG-160/blob/main/PermutationsofaString.java) |
-
+| 75  | [Implement Pow](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/powx-n) | [Link](https://github.com/LipunRout/GFG-160/blob/main/ImplementPow.java) |
 
 
 
