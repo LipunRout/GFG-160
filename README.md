@@ -89,6 +89,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 75  | [Implement Pow](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/powx-n) | [Link](https://github.com/LipunRout/GFG-160/blob/main/ImplementPow.java) |
 | 76  | [N-Queen Problem](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/n-queen-problem0315) | [Link](https://github.com/LipunRout/GFG-160/blob/main/NQueenProblem.java) |
 | 77  | [Solve the Sudoku](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/solve-the-sudoku-1587115621) | [Link](https://github.com/LipunRout/GFG-160/blob/main/SolvetheSudoku.java) |
+| 78  | [Word Search](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/word-search) | [Link](https://github.com/LipunRout/GFG-160/blob/main/WordSearch.java) |
 
 
 
