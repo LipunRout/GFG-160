@@ -92,7 +92,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 78  | [Word Search](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/recursion-and-backtracking-gfg-160/problem/word-search) | [Link](https://github.com/LipunRout/GFG-160/blob/main/WordSearch.java) |
 | 79  | [Level order traversal](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/level-order-traversal) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Levelordertraversal.java) |
 | 80  | [Height of Binary Tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/height-of-binary-tree) | [Link](https://github.com/LipunRout/GFG-160/blob/main/HeightofBinaryTree.java) |
-
+| 81  | [Diameter of a Binary Tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/diameter-of-binary-tree) | [Link](https://github.com/LipunRout/GFG-160/blob/main/DiameterofaBinaryTree.java) |
 
 
 
