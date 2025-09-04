@@ -95,7 +95,7 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 81  | [Diameter of a Binary Tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/diameter-of-binary-tree) | [Link](https://github.com/LipunRout/GFG-160/blob/main/DiameterofaBinaryTree.java) |
 | 82  | [Mirror Tree](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/mirror-tree) | [Link](https://github.com/LipunRout/GFG-160/blob/main/MirrorTree.java) |
 | 83  | [Construct Tree from Inorder & Preorder](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/construct-tree-1) | [Link](https://github.com/LipunRout/GFG-160/blob/main/ConstructTreefromInorderNPreorder.java) |
-
+| 84  | [Inorder Traversal](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/inorder-traversal) | [Link](https://github.com/LipunRout/GFG-160/blob/main/InorderTraversal.java) |
 
 
 
