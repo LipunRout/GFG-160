@@ -97,6 +97,8 @@ To consistently solve DSA problems every day for 160 days and build strong probl
 | 83  | [Construct Tree from Inorder & Preorder](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/construct-tree-1) | [Link](https://github.com/LipunRout/GFG-160/blob/main/ConstructTreefromInorderNPreorder.java) |
 | 84  | [Inorder Traversal](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/inorder-traversal) | [Link](https://github.com/LipunRout/GFG-160/blob/main/InorderTraversal.java) |
 | 85  | [Tree Boundary Traversal](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/boundary-traversal-of-binary-tree) | [Link](https://github.com/LipunRout/GFG-160/blob/main/TreeBoundaryTraversal.java) |
+| 86  | [Maximum path sum from any node](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/tree-gfg-160/problem/maximum-path-sum-from-any-node) | [Link](https://github.com/LipunRout/GFG-160/blob/main/Maximumpathsumfromanynode.java) |
+
 
 
 
